@@ -40,6 +40,9 @@
     .item-price-old{
         font-size: 14px;
     }
+    .item-price-new{
+        font-size: 14px;
+    }
 }
 @media(max-width: 1024px){
     .item{
@@ -52,6 +55,9 @@
     .item-price-old{
         font-size: 13px;
     }
+    .item-price-new{
+        font-size: 13px;
+    }
 }
 @media(max-width: 800px){
     .item{
@@ -62,6 +68,9 @@
         width: 120px;
     }
     .item-price-old{
+        font-size: 12px;
+    }
+    .item-price-new{
         font-size: 12px;
     }
 }
